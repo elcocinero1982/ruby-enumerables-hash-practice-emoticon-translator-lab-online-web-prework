@@ -1,5 +1,7 @@
 require "yaml"
 fruits = YAML.load_file('fruits.yml')
+get_english_meaning
+= angel
 angel:
   - "O:)"      
   - "☜(⌒▽⌒)☞"
