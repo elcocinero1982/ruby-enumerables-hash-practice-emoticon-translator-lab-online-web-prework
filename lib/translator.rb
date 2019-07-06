@@ -7,7 +7,7 @@ end
 
 def get_japanese_emoticon
   # code goes here
-  
+  get_english_meaning "yaml"
 end
 
 def get_english_meaning
