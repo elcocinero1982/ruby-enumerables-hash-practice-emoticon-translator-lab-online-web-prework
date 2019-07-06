@@ -1,3 +1,4 @@
+
 angel:
   - "O:)"      
   - "☜(⌒▽⌒)☞"
@@ -37,5 +38,4 @@ surprised:
 wink:
   - ";)"
   - "(^_-)"
-  - require "yaml"
-fruits = YAML.load_file('fruits.yml')
+  
