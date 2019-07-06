@@ -39,4 +39,4 @@ surprised:
 wink:
   - ";)"
   - "(^_-)"
-  return = true
+  return = path
